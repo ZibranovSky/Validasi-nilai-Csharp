@@ -1,0 +1,6 @@
+/home/hibiki/Projects/ValidasiNilai/ValidasiNilai/bin/Debug/ValidasiNilai.exe
+/home/hibiki/Projects/ValidasiNilai/ValidasiNilai/bin/Debug/ValidasiNilai.pdb
+/home/hibiki/Projects/ValidasiNilai/ValidasiNilai/obj/x86/Debug/ValidasiNilai.csprojAssemblyReference.cache
+/home/hibiki/Projects/ValidasiNilai/ValidasiNilai/obj/x86/Debug/ValidasiNilai.csproj.CoreCompileInputs.cache
+/home/hibiki/Projects/ValidasiNilai/ValidasiNilai/obj/x86/Debug/ValidasiNilai.exe
+/home/hibiki/Projects/ValidasiNilai/ValidasiNilai/obj/x86/Debug/ValidasiNilai.pdb
